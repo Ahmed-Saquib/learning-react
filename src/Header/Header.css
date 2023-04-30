@@ -1,0 +1,23 @@
+.photo {
+    height: 50px;
+    align-self: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+.nav-items > li {
+    padding: 10px;
+}
+
+.header {
+    background-color: darkslateblue;
+}
+
